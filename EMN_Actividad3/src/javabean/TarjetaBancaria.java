@@ -15,5 +15,6 @@ public class TarjetaBancaria {
 	private int mes;
 	private int cvv;
 	private Banco banco;
+	private String titular;
 
 }
